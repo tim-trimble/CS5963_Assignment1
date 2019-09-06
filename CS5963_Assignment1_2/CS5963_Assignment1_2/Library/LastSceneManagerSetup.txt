@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/CatAndLaser.unity
+- path: Assets/Scenes/CS5963_Assignment1_2.unity
   isLoaded: 1
   isActive: 1
